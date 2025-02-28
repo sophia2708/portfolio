@@ -34,7 +34,7 @@ function Services({ isDarkMode }) {
         transition={{ delay: 0.7, duration: 0.5 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo"
       >
-        I am a full-stack developer from Chennai, India, with 3 years of
+        I am a Software developer from Chennai, India, with 3 years of
         experience at Analytic Brains Tech.
       </motion.p>
       <motion.div

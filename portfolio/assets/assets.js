@@ -36,10 +36,10 @@ import send_icon from "./send-icon.png";
 import right_arrow_bold from "./right-arrow-bold.png";
 import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 // import profile_1 from "./profile_1.jpg";
-import profile_2 from "./profile_2.jpg";
-import profile_ from "./profile_.jpg";
-import logo_1 from "./logo_1.png";
-import logo_2 from "./logo_2.png";
+import profile_2 from "./sof_3.jpg";
+import profile_ from "./sof_1.jpg";
+import logo_1 from "./s-3.png";
+import logo_2 from "./s-2.png";
 
 export const assets = {
   user_image,
@@ -144,13 +144,13 @@ export const infoList = [
     iconDark: assets.code_icon_dark,
     title: "Languages",
     description:
-      "HTML, CSS, JavaScript, Angular, React, Node Js, Express Js, Next Js",
+      "HTML, CSS, JavaScript, React, Node Js, Express Js, Next Js, Pupeeter",
   },
   {
     icon: assets.edu_icon,
     iconDark: assets.edu_icon_dark,
     title: "Education",
-    description: "B.Sc in Computer Science",
+    description: "Bachelor of Computer Application",
   },
   {
     icon: assets.project_icon,

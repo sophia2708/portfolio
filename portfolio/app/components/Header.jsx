@@ -19,7 +19,7 @@ function Header() {
         transition={{ duration: 0.6, delay: 0.3 }}
         className="flex items-center gap-2 text-xl md:text-2xl mb-3 font-Ovo"
       >
-        Hi! I'm Naveen <Image src={assets.hand_icon} alt="" className="w-6" />
+        Hi! I'm Sophia <Image src={assets.hand_icon} alt="" className="w-6" />
       </motion.h3>
       <motion.h1
         initial={{ y: -30, opacity: 0 }}
@@ -27,15 +27,15 @@ function Header() {
         transition={{ duration: 0.8, deley: 0.5 }}
         className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo"
       >
-        Full Stack Developer based in Chennai, India.
+        Software Developer based in Chennai, India.
       </motion.h1>
       <motion.p
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, deley: 0.7 }}
       >
-        I am a full-stack developer from Chennai, India, with 3 years of
-        experience at Analytic Brains Tech.
+        Chennai-based Software Developer with 3 years of experience at Analytic
+        Brains Tech, specializing in building efficient and scalable solutions.
       </motion.p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
@@ -52,7 +52,7 @@ function Header() {
           initial={{ y: 30, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.6, deley: 1.2 }}
-          href="/NaveenKumar_.pdf"
+          href="/Sophia_Resume.pdf"
           download
           className="px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black"
         >

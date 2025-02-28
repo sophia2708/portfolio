@@ -54,10 +54,11 @@ const About = ({ isDarkMode }) => {
           transition={{ duration: 0.6, delay: 0.8 }}
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            I am an experienced Full Stack Developer with 3 years of
-            professional expertise in the field. Throughout my career, I have
-            had the privilege of collaborating with Analytic Brains Tech,
-            contributing to its success and growth.
+            Experienced Software Developer with 3 years of professional
+            expertise, specializing in building efficient and scalable
+            solutions. Contributed to the success of Analytic Brains Tech
+            through innovative development and problem-solving. Passionate about
+            leveraging technology to drive business growth and efficiency.
           </p>
           <motion.ul
             initial={{ opacity: 0 }}
